@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UT Cancun\\Ingenieria\\9 Cuatrimestre\\Desarrollo Web Integral\\WebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D87496D-AC7C-4541-9321-50BF51934250}|WebApi\\WebApi.csproj|d:\\ut cancun\\ingenieria\\9 cuatrimestre\\desarrollo web integral\\webapi\\webapi\\services\\autorservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D87496D-AC7C-4541-9321-50BF51934250}|WebApi\\WebApi.csproj|solutionrelative:webapi\\services\\autorservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D87496D-AC7C-4541-9321-50BF51934250}|WebApi\\WebApi.csproj|d:\\ut cancun\\ingenieria\\9 cuatrimestre\\desarrollo web integral\\webapi\\webapi\\controllers\\autorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D87496D-AC7C-4541-9321-50BF51934250}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\autorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D87496D-AC7C-4541-9321-50BF51934250}|WebApi\\WebApi.csproj|d:\\ut cancun\\ingenieria\\9 cuatrimestre\\desarrollo web integral\\webapi\\webapi\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D87496D-AC7C-4541-9321-50BF51934250}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D87496D-AC7C-4541-9321-50BF51934250}|WebApi\\WebApi.csproj|d:\\ut cancun\\ingenieria\\9 cuatrimestre\\desarrollo web integral\\webapi\\webapi\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D87496D-AC7C-4541-9321-50BF51934250}|WebApi\\WebApi.csproj|solutionrelative:webapi\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D87496D-AC7C-4541-9321-50BF51934250}|WebApi\\WebApi.csproj|d:\\ut cancun\\ingenieria\\9 cuatrimestre\\desarrollo web integral\\webapi\\webapi\\services\\iautorservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D87496D-AC7C-4541-9321-50BF51934250}|WebApi\\WebApi.csproj|solutionrelative:webapi\\services\\iautorservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D35C7DE-98A2-4021-8C73-149E687B63E4}|Domain\\Domain.csproj|d:\\ut cancun\\ingenieria\\9 cuatrimestre\\desarrollo web integral\\webapi\\domain\\entities\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D35C7DE-98A2-4021-8C73-149E687B63E4}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "D:\\UT Cancun\\Ingenieria\\9 Cuatrimestre\\Desarrollo Web Integral\\WebApi\\WebApi\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\UsuariosController.cs",
+              "ToolTip": "D:\\UT Cancun\\Ingenieria\\9 Cuatrimestre\\Desarrollo Web Integral\\WebApi\\WebApi\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\UsuariosController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T00:29:04.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "D:\\UT Cancun\\Ingenieria\\9 Cuatrimestre\\Desarrollo Web Integral\\WebApi\\WebApi\\Context\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "WebApi\\Context\\ApplicationDBContext.cs",
+              "ToolTip": "D:\\UT Cancun\\Ingenieria\\9 Cuatrimestre\\Desarrollo Web Integral\\WebApi\\WebApi\\Context\\ApplicationDBContext.cs",
+              "RelativeToolTip": "WebApi\\Context\\ApplicationDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T00:28:58.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AutoresController.cs",
+              "DocumentMoniker": "D:\\UT Cancun\\Ingenieria\\9 Cuatrimestre\\Desarrollo Web Integral\\WebApi\\WebApi\\Controllers\\AutoresController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\AutoresController.cs",
+              "ToolTip": "D:\\UT Cancun\\Ingenieria\\9 Cuatrimestre\\Desarrollo Web Integral\\WebApi\\WebApi\\Controllers\\AutoresController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\AutoresController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAwwBIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T23:58:18.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AutorServices.cs",
+              "DocumentMoniker": "D:\\UT Cancun\\Ingenieria\\9 Cuatrimestre\\Desarrollo Web Integral\\WebApi\\WebApi\\Services\\AutorServices.cs",
+              "RelativeDocumentMoniker": "WebApi\\Services\\AutorServices.cs",
+              "ToolTip": "D:\\UT Cancun\\Ingenieria\\9 Cuatrimestre\\Desarrollo Web Integral\\WebApi\\WebApi\\Services\\AutorServices.cs",
+              "RelativeToolTip": "WebApi\\Services\\AutorServices.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAwwBgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T23:44:55.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IAutorServices.cs",
+              "DocumentMoniker": "D:\\UT Cancun\\Ingenieria\\9 Cuatrimestre\\Desarrollo Web Integral\\WebApi\\WebApi\\Services\\IAutorServices.cs",
+              "RelativeDocumentMoniker": "WebApi\\Services\\IAutorServices.cs",
+              "ToolTip": "D:\\UT Cancun\\Ingenieria\\9 Cuatrimestre\\Desarrollo Web Integral\\WebApi\\WebApi\\Services\\IAutorServices.cs",
+              "RelativeToolTip": "WebApi\\Services\\IAutorServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T23:44:07.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Autor.cs",
+              "DocumentMoniker": "D:\\UT Cancun\\Ingenieria\\9 Cuatrimestre\\Desarrollo Web Integral\\WebApi\\Domain\\Entities\\Autor.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Autor.cs",
+              "ToolTip": "D:\\UT Cancun\\Ingenieria\\9 Cuatrimestre\\Desarrollo Web Integral\\WebApi\\Domain\\Entities\\Autor.cs",
+              "RelativeToolTip": "Domain\\Entities\\Autor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T23:36:20.985Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
